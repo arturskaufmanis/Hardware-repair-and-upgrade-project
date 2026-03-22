@@ -4,6 +4,7 @@
 **Device:** HP EliteBook 845 G7  
 **Date:** March 2026  
 **Outcome:** ✅ Fully functional — keyboard replaced, RAM upgraded to 16 GB dual-channel, Windows 11 verified
+https://arturskaufmanis.github.io/Hardware-repair-and-upgrade-project/
 
 ---
 
